@@ -11,7 +11,11 @@ body{
 .no-underline{
   text-decoration:none;
 }
-.image1{
+.main{
+  margin-top:50px;
+  margin-left:-150px;
+}
+/*.image1{
   border:2px solid black;
   margin-left:-110px;
   margin-top:30px;
@@ -19,6 +23,7 @@ body{
   display:block;
  
 }
+  
 .image2{
   border:2px solid red;
   margin-top:15px;
@@ -37,7 +42,7 @@ body{
   margin-left:-110px;
   margin-top:10px;
   box-shadow:0 0 10px #45A0E6;
-}
+}*/
 .container{
   display:flex;
   flex-direction:row;
