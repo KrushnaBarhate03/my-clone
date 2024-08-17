@@ -272,7 +272,7 @@ margin-left:80px;
   margin:25px;
   width:320px;
   height:320px;
-  border:2px solid black;
+  /*border:2px solid black;*/
   border-radius:10px 12px;
 }
 .placement{
@@ -291,15 +291,23 @@ margin-left:80px;
   margin-bottom:10px;
   font-weight:bold;
 }
+/*.bottom-side{
+  background-image: linear-gradient(to right, rgb(157, 164, 210), rgb(184, 229, 244));
+  background-image: linear-gradient(to right, rgb(201, 207, 248), rgb(200, 230, 240));
+  background-image: linear-gradient(to right, rgb(221, 223, 235), rgb(223, 242, 249));
+  height:auto;
+  width:auto;
+  border-radius:10px 12px;
+} */
 
-.placement-text1{
+/*.placement-text1{
   background-color:#FFD700;
  
   width:315px;
   text-align:center;
   font-size:17px;
   font-weight:bold;
-}
+}*/
 .logo{
   margin-top:-35px;
   margin-left:85px;
