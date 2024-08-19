@@ -235,11 +235,27 @@ margin-left:90px;
 .hiring-partner-card{
  margin:40px;
 }
+.hiring-partner-card1{
+  background-color:white;
+  width:280px;
+  height:200px;
+  
+  box-shadow: 0 0 10px blue;
+  border-radius:10px 12px;
+}
+.hiring-partner-card1:hover{
+  border:1px solid black;
+}
+.image-card{
+  margin-left:70px;
+  margin-top:25px;
+}
   
 .service-container{
   display:flex;
-  flex-direction:row;
+  flex-direction:column;
   justify-content:center;
+  align-items:center;
   flex-wrap:wrap;
 }
 .service-card{
@@ -332,8 +348,9 @@ margin-left:90px;
 .teacher{
   /*background-color:#E5E5E5;*/
   display:flex;
-  flex-direction:row;
+  flex-direction:column;
   justify-content:center;
+  align-items:center;
   flex-wrap:wrap;
 }
 .teacher-card{
